@@ -1,0 +1,6 @@
+framework module Pods_FirebaseSceneKitExampleTests {
+  umbrella header "Pods-FirebaseSceneKitExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
